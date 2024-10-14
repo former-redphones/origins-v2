@@ -1,1 +1,0 @@
-tellraw @s {"text":"You open your elytra, but nothing happens!","color":"red"}
