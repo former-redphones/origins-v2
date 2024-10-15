@@ -10,11 +10,11 @@
                 {
                     "type": "origins:change_resource",
                     "resource": "srwym:caleb/jetpack_fuel",
-                    "change": -1.5
+                    "change": -1
                 },
                 {
                     "type": "origins:add_velocity",
-                    "y": 0.1,
+                    "y": 0.15,
                     "x": 0,
                     "z": 0
                 },
