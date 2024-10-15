@@ -1,19 +1,18 @@
 {
     "loading_priority": 0,
     "powers": [
-        "srwym:caleb/jetpack",
-        "srwym:caleb/short"
+        "srwym:ben/scissors"
     ],
     "icon": {
         "item": "minecraft:player_head",
         "components": {
             "minecraft:profile": {
-                "name": "MonkeyKabob"
+                "name": "danroth27"
             }
         }
     },
     "order": 4,
     "impact": 1,
-    "name": "Caleb",
-    "description": "goblin"
+    "name": "Ben",
+    "description": ""
 }
