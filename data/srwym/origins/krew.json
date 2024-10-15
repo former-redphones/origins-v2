@@ -1,0 +1,18 @@
+{
+    "loading_priority": 0,
+    "powers": [
+        "srwym:krew/kitchen"
+    ],
+    "icon": {
+        "item": "minecraft:player_head",
+        "components": {
+            "minecraft:profile": {
+                "name": "kthesavage123"
+            }
+        }
+    },
+    "order": 4,
+    "impact": 1,
+    "name": "Krew",
+    "description": "*leeland kersavage*"
+}

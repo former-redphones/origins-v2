@@ -1,0 +1,17 @@
+{
+    "type": "origins:recipe",
+    "recipe": {
+        "id": "srwym:krew/bread",
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:wheat"
+            }
+        ],
+        "result": {
+            "item": "minecraft:bread"
+        }
+    },
+    "name": "Kitchen",
+    "description": "Can make bread with only one wheat"
+}
