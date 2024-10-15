@@ -1,0 +1,11 @@
+{
+    "type":"origins:attribute",
+    "modifier": {
+        "id": "srwym:shorter",
+        "attribute": "minecraft:generic.scale",
+        "value": -0.25,
+        "operation": "ADD_MULTIPLIED_BASE"
+    },
+    "name": "Short",
+    "description": "Only about 1.5 blocks tall"
+}

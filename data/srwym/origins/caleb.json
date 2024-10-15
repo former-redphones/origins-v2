@@ -1,0 +1,18 @@
+{
+    "loading_priority": 0,
+    "powers": [
+        "srwym:short"
+    ],
+    "icon": {
+        "item": "minecraft:player_head",
+        "components": {
+            "minecraft:profile": {
+                "name": "MonkeyKabob"
+            }
+        }
+    },
+    "order": 4,
+    "impact": 1,
+    "name": "Caleb",
+    "description": ""
+}
