@@ -10,16 +10,7 @@
     "bientity_action": {
         "type": "origins:target_action",
         "action": {
-            "type": "origins:interact",
-            "target": "minecraft:sheep",
-            "action": {
-                "type": "origins:shear",
-                "item": "minecraft:shears"
-            },
-            "condition": {
-                "type": "origins:holding_item",
-                "item": "minecraft:shears"
-            }
+            
         }
     }
 }
