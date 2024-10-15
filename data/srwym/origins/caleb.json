@@ -1,7 +1,8 @@
 {
     "loading_priority": 0,
     "powers": [
-        "srwym:short"
+        "srwym:caleb/short",
+        "srwym:caleb/jetpack"
     ],
     "icon": {
         "item": "minecraft:player_head",
