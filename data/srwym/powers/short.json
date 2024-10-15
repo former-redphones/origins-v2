@@ -3,9 +3,9 @@
     "modifier": {
         "id": "srwym:shorter",
         "attribute": "minecraft:generic.scale",
-        "value": -0.25,
+        "value": -0.35,
         "operation": "ADD_MULTIPLIED_BASE"
     },
     "name": "Short",
-    "description": "Only about 1.5 blocks tall"
+    "description": "kneecap warrior"
 }
