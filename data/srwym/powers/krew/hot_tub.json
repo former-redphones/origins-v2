@@ -1,0 +1,12 @@
+{
+    "type": "origins:damage_over_time",
+    "damage": -1,
+    "condition": {
+        "type": "origins:fluid_height",
+        "fluid": "minecraft:water",
+        "comparison": ">",
+        "compare_to": 0
+    },
+    "name": "Hot tub",
+    "description": "Regeneration in water"
+}
