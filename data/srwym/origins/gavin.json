@@ -1,0 +1,18 @@
+{
+    "loading_priority": 0,
+    "powers": [
+        "srwym:gavin/dunk"
+    ],
+    "icon": {
+        "item": "minecraft:player_head",
+        "components": {
+            "minecraft:profile": {
+                "name": "8"
+            }
+        }
+    },
+    "order": 4,
+    "impact": 1,
+    "name": "Gavin",
+    "description": "nnnn"
+}
