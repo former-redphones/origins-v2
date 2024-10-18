@@ -1,0 +1,18 @@
+{
+    "loading_priority": 0,
+    "powers": [
+        "srwym:henry/cuddle"
+    ],
+    "icon": {
+        "item": "minecraft:player_head",
+        "components": {
+            "minecraft:profile": {
+                "name": "henry"
+            }
+        }
+    },
+    "order": 1,
+    "impact": 1,
+    "name": "Henry",
+    "description": "piano man"
+}
