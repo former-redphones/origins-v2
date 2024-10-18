@@ -1,20 +1,12 @@
 {
-    "type": "origins:multiple",
-    "jump": {
-        "type": "origins:active_self",
-        "entity_action": {
-            "type": "origins:execute_command",
-            "command": "tellraw @a \"wow\"",
-            "condition": {
-                "type": "origins:chance",
-                "chance": 0.5
-            }
-        },
-        "key": "key.jump",
-        "condition": {
-            "type": "origins:on_block"
-        },
-        "hidden": true
+    "type": "origins:modify_jump",
+    "modifier": {
+        "operation": "addition",
+        "value": 0.2
+    },
+    "condition": {
+        "type": "origins:chance",
+        "chance": 0.5
     },
     "name": "Dunk",
     "description": "50% to jump higher"
