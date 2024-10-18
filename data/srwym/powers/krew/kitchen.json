@@ -9,9 +9,9 @@
             }
         ],
         "result": {
-            "item": "minecraft:bread"
+            "id": "minecraft:bread"
         }
     },
     "name": "Kitchen",
-    "description": "Can make bread with only one wheat"
+    "description": "Can make bread easily"
 }
