@@ -1,6 +1,9 @@
 {
-    "type": "origins:damage_over_time",
-    "damage": -1,
+    "type": "origins:modify_healing",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 3
+    },
     "condition": {
         "type": "origins:fluid_height",
         "fluid": "minecraft:water",
@@ -8,5 +11,5 @@
         "compare_to": 0
     },
     "name": "Hot tub",
-    "description": "Regeneration in water"
+    "description": "Increased regeneration in water"
 }
