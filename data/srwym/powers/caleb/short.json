@@ -1,10 +1,20 @@
 {
-    "type":"origins:attribute",
-    "modifier": {
-        "id": "srwym:shorter",
-        "attribute": "minecraft:generic.scale",
-        "value": -0.35,
-        "operation": "ADD_MULTIPLIED_BASE"
+    "type": "origins:multiple",
+    "short": {
+        "type":"origins:attribute",
+        "modifier": {
+            "id": "srwym:shorter",
+            "attribute": "minecraft:generic.scale",
+            "value": -0.35,
+            "operation": "ADD_MULTIPLIED_BASE"
+        }
+    },
+    "jump": {
+        "type": "origins:modify_jump",
+        "modifier": {
+            "operation": "addition",
+            "value": 0.15
+        }
     },
     "name": "Short",
     "description": "kneecap warrior"
